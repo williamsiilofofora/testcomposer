@@ -1,0 +1,12 @@
+{
+    "name": "kercode/test-unitaire",
+    "authors": [
+        {
+            "name": "Williams Kubiak",
+            "email": "williams.kubiakpro@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
